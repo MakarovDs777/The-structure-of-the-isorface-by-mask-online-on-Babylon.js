@@ -18,4 +18,4 @@
 
 Теперь изурфейсы по маскам должны быть в одном фиксированном месте по XYZ.
 
-[The structure of the isorface by mask on Babylon.js (Version 4 - XYZ isorfaces by masks) | Babylon.js Playground](https://playground.babylonjs.com/#9R9XWY)
+[The structure of the isorface by mask on Babylon.js (Version 4 - XYZ isorfaces by masks fixed) | Babylon.js Playground](https://playground.babylonjs.com/#9R9XWY#1)
