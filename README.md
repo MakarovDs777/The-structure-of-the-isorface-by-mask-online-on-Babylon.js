@@ -19,3 +19,7 @@
 Теперь изурфейсы по маскам должны быть в одном фиксированном месте по XYZ.
 
 [The structure of the isorface by mask on Babylon.js (Version 4 - XYZ isorfaces by masks fixed) | Babylon.js Playground](https://playground.babylonjs.com/#9R9XWY#1)
+
+То же что и предыдущие и кнопка скачивания OBJ изурфейса.
+
+[The structure of the isorface by mask on Babylon.js (Version 5 - XYZ isorfaces by masks + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#QC4J4N)
