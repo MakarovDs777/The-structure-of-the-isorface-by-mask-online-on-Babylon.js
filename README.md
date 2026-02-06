@@ -4,6 +4,10 @@
 
 [The structure of the isorface by mask on Babylon.js (Version 0 - Random isorface structure from a random mask) | Babylon.js Playground](https://playground.babylonjs.com/#GE0ARH)
 
-Отлично теперь нужно добавить кнопку скачивания OBJ
+Отлично теперь нужно добавить кнопку скачивания OBJ.
 
 [The structure of the isorface by mask on Babylon.js (Version 1 - Download OBJ isorfaces) | Babylon.js Playground](https://playground.babylonjs.com/#OMRQ0Z)
+
+Теперь нужно сделать XYZ маски а не только XZ.
+
+[The structure of the isorface by mask on Babylon.js (Version 2 - XYZ isorfaces by masks) | Babylon.js Playground](https://playground.babylonjs.com/#ZMOJET)
