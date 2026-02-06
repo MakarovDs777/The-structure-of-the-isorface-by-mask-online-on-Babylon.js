@@ -11,3 +11,7 @@
 Теперь нужно сделать XYZ маски а не только XZ.
 
 [The structure of the isorface by mask on Babylon.js (Version 2 - XYZ isorfaces by masks) | Babylon.js Playground](https://playground.babylonjs.com/#ZMOJET)
+
+Теперь добавим кнопку для создания маски из изурфейсов XYZ в случайных местах.
+
+[The structure of the isorface by mask on Babylon.js (Version 3 - XYZ isorfaces by masks add random masks) | Babylon.js Playground](https://playground.babylonjs.com/#DYJ8V6)
