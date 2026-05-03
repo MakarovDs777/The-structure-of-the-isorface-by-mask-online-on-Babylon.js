@@ -23,3 +23,7 @@
 То же что и предыдущие и кнопка скачивания OBJ изурфейса.
 
 [The structure of the isorface by mask on Babylon.js (Version 5 - XYZ isorfaces by masks + Download button) | Babylon.js Playground](https://playground.babylonjs.com/#QC4J4N)
+
+Версия с анимацией где последуящая маска сменяет предыдущая за 1 секунду.
+
+[The structure of the isorface by mask on Babylon.js (Version 6 - XYZ isorfaces by masks animated version) | Babylon.js Playground](https://playground.babylonjs.com/#Q8OP1R)
